@@ -1,7 +1,3 @@
-Segue um modelo de **README.md** com os prints que você forneceu, explicando os testes realizados na API REST de pedidos:
-
----
-
 # API de Pedidos - Testes com Inmonia (Insomnia)
 
 Esta API REST permite o gerenciamento de pedidos com operações de criação, leitura, atualização e exclusão. Abaixo estão os testes realizados via [Inmonia](https://inmonia.rest/) (ou Insomnia/Postman) com exemplos reais.
@@ -83,7 +79,3 @@ Remove o pedido com ID 1.
 ## 🧪 Conclusão
 
 Todos os testes foram realizados com sucesso, demonstrando que a API está funcional para as operações básicas de CRUD. Os testes foram realizados no dia **26/05/2025** com a ferramenta Inmonia, e os prints comprovam o funcionamento correto da aplicação.
-
----
-
-Se quiser, posso empacotar este README com os prints em uma pasta zipada. Deseja isso?
